@@ -1,0 +1,13 @@
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\ProgramGrafica.exe.config
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\ProgramGrafica.exe
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\ProgramGrafica.pdb
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\OpenTK.dll
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\OpenTK.pdb
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\bin\Debug\OpenTK.xml
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\obj\Debug\ProgramGrafica.csproj.AssemblyReference.cache
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\obj\Debug\ProgramGrafica.csproj.CoreCompileInputs.cache
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\obj\Debug\ProgramGrafica.csproj.CopyComplete
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\obj\Debug\ProgramGrafica.exe
+C:\Users\Pamela\Desktop\grafica\auto_casa-Grafica\ProGrafica\obj\Debug\ProgramGrafica.pdb
